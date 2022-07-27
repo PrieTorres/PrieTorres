@@ -1,16 +1,21 @@
-### Hi there 👋
+## Oie, meu nome é Priscila Torres e estou em progresso para me tronar uma programadora fullstack
 
-<!--
-**PrieTorres/PrieTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrieTorres&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrieTorres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou desenvolvendo apenas projetos de estudo
+- 🌱 Estou estudando React, Node, Java e PHP
+- 📫 Como me contactar (caso queira): priscilatorresbdepaula@gmail.com
+- 😄 Meus pronomes: ela / dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meus projetos do momento :
+<hr>
+<div align="center">
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrieTorres&repo=Ramen-commerce)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrieTorres&repo=Galaxy-Shooter-ofc)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</div>
+
+<hr>
+
