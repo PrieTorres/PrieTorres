@@ -8,7 +8,7 @@
 - 📫 Como me contactar (caso queira): priscilatorresbdepaula@gmail.com
 - 😄 Meus pronomes: ela / dela
 
-### Meus projetos do momento :
+### Meus melhores projetos até o momento :
 <hr>
 <div align="center">
 
