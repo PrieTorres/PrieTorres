@@ -1,4 +1,4 @@
-## Oie, meu nome é Priscila Torres e estou em progresso para me tronar uma programadora fullstack
+## Oba, meu nome é Priscila Torres e estou em progresso para me tronar uma programadora fullstack
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrieTorres&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrieTorres&layout=compact)](https://github.com/PrieTorres?tab=repositories)
