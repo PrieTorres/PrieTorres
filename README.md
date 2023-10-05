@@ -13,7 +13,7 @@
 <div align="center">
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrieTorres&repo=Ramen-commerce)](https://github.com/PrieTorres/Ramen-commerce)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrieTorres&repo=Galaxy-Shooter-ofc)](https://github.com/PrieTorres/Galaxy-Shooter-ofc)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrieTorres&repo=space-warrior)](https://github.com/PrieTorres/space-warrior)
  
 </div>
 
