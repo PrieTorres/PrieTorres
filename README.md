@@ -3,7 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrieTorres&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrieTorres&layout=compact)](https://github.com/PrieTorres?tab=repositories)
 <hr>
-<a href="https://ethereal-argon-427820-m6.web.app/"><h2>Portifólio</h2></a>
+
+## [Portifólio](https://ethereal-argon-427820-m6.web.app/)
+
 <hr>
 - 🔭 Atualmente programando
 - 🌱 Estou estudando React, Node, Typescript
@@ -20,4 +22,3 @@
 </div>
 
 <hr>
-
