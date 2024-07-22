@@ -7,10 +7,10 @@
 ## [Portifólio](https://ethereal-argon-427820-m6.web.app/)
 
 <hr>
-- 🔭 Atualmente programando
-- 🌱 Estou estudando React, Node, Typescript
-- 📫 Como me contactar (caso queira): priscilatorresbdepaula@gmail.com
-- 😄 Meus pronomes: ela / dela
+- 🔭 Atualmente programando <br>
+- 🌱 Estou estudando React, Node, Typescript <br>
+- 📫 Como me contactar (caso queira): priscilatorresbdepaula@gmail.com <br>
+- 😄 Meus pronomes: ela / dela <br>
 
 ### Meus melhores projetos até o momento :
 <hr>
