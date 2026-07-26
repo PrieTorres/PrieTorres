@@ -32,8 +32,8 @@ Gosto de código que alguém consegue ler daqui a seis meses, de **acessibilidad
 
 |  |  |
 |:--|:--|
-| **No dia a dia**<br><sub>*Daily driver*</sub> | [![](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,gcp,mongodb,firebase,docker,git)](#) |
-| **Também construo com**<br><sub>*Also build with*</sub> | [![](https://skillicons.dev/icons?i=python,fastapi,java,spring,kotlin,flutter,dart,godot,c,jest)](#) |
+| **No dia a dia**<br><sub>*Daily driver*</sub> | [![](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,gcp,docker,git)](#) |
+| **Também construo com**<br><sub>*Also build with*</sub> | [![](https://skillicons.dev/icons?i=python,fastapi,java,spring,kotlin,flutter,dart,godot,c,jest,mongodb,firebase)](#) |
 
 <sub>React · TypeScript · Next.js · Node · Express · GCP (Datastore, Cloud Run, Pub/Sub) · MongoDB · MySQL · Firebase · Docker · Git &nbsp;|&nbsp; Python/FastAPI · Java/Spring Boot · Kotlin · Flutter/Dart · Godot · C · Jest</sub>
 
