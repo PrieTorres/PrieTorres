@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6)](https://ethereal-argon-427820-m6.web.app/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6)](https://priscilatorres.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/priscila-paula-610425223)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscilatorresbdepaula@gmail.com)
 
